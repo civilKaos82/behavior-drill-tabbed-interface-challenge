@@ -4,6 +4,7 @@
 
 * Change DOM state based on JavaScript events
 * Assign event handlers at DOM onReady() using jQuery
+* Communicate state change to users
 
 ## Summary
 
