@@ -19,7 +19,7 @@ desired UI.
 ### Release 0:  Add JavaScript to Make Tabs Live!
 
 You can do what you need to do **without** editing the HTML or CSS.  It should
-end up behaving like this: [Tabbed Interface](https://www.youtube.com/embed/cnKij6q0YG4)
+end up behaving like this: [Tabbed Interface](https://vimeo.com/123216091)
 
 Edit the JavaScript in the tabs.js file.  [Peruse the jQuery API
 documentation][jqueryapi] to find methods that will do what you
