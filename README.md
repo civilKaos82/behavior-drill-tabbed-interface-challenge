@@ -8,8 +8,7 @@
 
 ## Summary
 
-Let's create a simple tabbed interface, similar to how the homepage of Socrates
-behaves.
+Let's create a simple tabbed interface.
 
 Take time to read over the CSS; it uses some intermediate techniques to get the
 desired UI.
